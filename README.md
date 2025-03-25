@@ -1,4 +1,4 @@
-# Web Conqueror
+# Web Rectification
 
 Rectification of bad design and development decesions.
 
